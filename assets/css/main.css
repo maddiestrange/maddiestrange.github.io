@@ -3236,7 +3236,7 @@ input, select, textarea {
 			}
 
 		.wrapper.alt {
-			background-color: #261c3e;
+			background-color: #261c3e00;
 		}
 
 		.wrapper.style1 {
@@ -3244,23 +3244,23 @@ input, select, textarea {
 		}
 
 		.wrapper.style1-alt {
-			background-color: #493382;
+			background-color: #ffffff00;
 		}
 
 		.wrapper.style2 {
-			background-color: #5052b5;
+			background-color: #e6dfa700;
 		}
 
 		.wrapper.style2-alt {
-			background-color: #3e4094;
+			background-color: #3e3f9400;
 		}
 
 		.wrapper.style3 {
-			background-color: #b74e91;
+			background-color: #bb5b5b;
 		}
 
 		.wrapper.style3-alt {
-			background-color: #953d75;
+			background-color: #ffffff;
 		}
 
 		.wrapper.fullscreen {
@@ -3524,7 +3524,7 @@ input, select, textarea {
 
 	#sidebar {
 		padding: 2.5em 2.5em 0.5em 2.5em ;
-		background: #312450;
+		background: #1e124b;
 		cursor: default;
 		height: 100vh;
 		left: 0;
